@@ -10,11 +10,11 @@
 
 - 💡 Tailored solutions for your business needs – that's what I deliver.
 
-- 🤝 My ultimate goal is to help companies solve problems.
+- 🤝 My ultimate goal is to help companies solve problems through Computer Vision.
 
 - 🤖 I’m currently learning Artificial Intelligence
 
-- 💬 Ask me about Business Intelligence and Data Analysis too.
+- 💬 Ask me about Business Intelligence and Data Analysis.
   
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eng-fabio-barbosa/](https://www.linkedin.com/in/eng-fabio-barbosa/)
 
