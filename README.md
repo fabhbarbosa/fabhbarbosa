@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabhbarbosa&label=Profile%20views&color=0e75b6&style=flat" alt="fabhbarbosa" /> </p>
 
-- 🔭 I’m currently studying Computer Vision.
+- 🔭 I’m currently studying Data Science, Machine Learning and Computer Vision.
 
-- 👨🏻‍💻 I have been able to develop customized solutions for Computer Vision projects.
+- 👨🏻‍💻 I have been able to develop customized solutions for Business Intelligence and Computer Vision projects.
 
 - 💡 Tailored solutions for your business needs – that's what I deliver.
 
-- 🤝 My ultimate goal is to help companies solve problems through Computer Vision.
+- 🤝 My ultimate goal is to help companies solve problems through data analysis.
 
 - 🤖 I’m currently learning Artificial Intelligence
 
-- 💬 Ask me about Business Intelligence and Data Analysis.
+- 💬 Ask me about Power BI and Business Intelligence.
   
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eng-fabio-barbosa/](https://www.linkedin.com/in/eng-fabio-barbosa/)
 
