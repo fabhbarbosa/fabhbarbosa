@@ -1,4 +1,4 @@
-![logo](https://github.com/fabhbarbosa/fabhbarbosa/blob/main/git.png)
+![logo](https://github.com/fabhbarbosa/fabhbarbosa/blob/main/git2.png)
 <h1 align="center">Hi 👋, I'm Fabio Barbosa</h1>
 <h3 align="center">Computer Vision Engineer</h3>
 
